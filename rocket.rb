@@ -65,3 +65,7 @@ class Rocket
     return colour_list.sample
   end
 end
+
+# apollo = Rocket.new
+#
+# p apollo.land
